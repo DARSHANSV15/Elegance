@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Elegance</title>
+	<atom:link href="https://darshansv15.github.io/Elegance/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://darshansv15.github.io/Elegance</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Nov 2023 18:04:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>C programming</title>
+		<link>https://darshansv15.github.io/Elegance/2023/11/02/c-programming/</link>
+					<comments>https://darshansv15.github.io/Elegance/2023/11/02/c-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[Darshan S V]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 18:04:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://darshansv15.github.io/Elegance/?p=6</guid>
+
+					<description><![CDATA[Why Learn C? A simple C program looks like #include &#60;stdio.h&#62; int&#160;main() {&#160; printf(&#8220;Hello World!&#8221;);&#160;&#160;return&#160;0;}]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">Why Learn C?</h4>
+
+
+
+<ul></ul>
+
+
+
+<ul>
+<li>It is one of the most popular programming language in the world</li>
+
+
+
+<li>If you know C, you will have no problem learning other popular programming languages such as Java, Python, C++, C#, etc, as the syntax is similar</li>
+
+
+
+<li>C is very fast, compared to other programming languages, like&nbsp;<a href="https://www.w3schools.com/java/default.asp">Java</a>&nbsp;and&nbsp;<a href="https://www.w3schools.com/python/default.asp">Python</a></li>
+
+
+
+<li>C is very versatile; it can be used in both applications and technologies</li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>A simple C program looks like</strong></h5>
+
+
+
+<p>#include &lt;stdio.h&gt;</p>
+
+
+
+<p>int&nbsp;main() {<br>&nbsp; printf(&#8220;Hello World!&#8221;);<br>&nbsp;&nbsp;return&nbsp;0;<br>}</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://darshansv15.github.io/Elegance/2023/11/02/c-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://darshansv15.github.io/Elegance/2023/11/02/hello-world/</link>
+					<comments>https://darshansv15.github.io/Elegance/2023/11/02/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Darshan S V]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 17:58:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://darshansv15.github.io/Elegance/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://darshansv15.github.io/Elegance/2023/11/02/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
